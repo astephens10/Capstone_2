@@ -1,1 +1,37 @@
-as
+Predicting future sale prices 
+With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, predict the final price of each home. In addition, find out what correlates strongly to housing price. 
+
+Summary: We have secured a contract with a start-up company (“E-Z-Houses”, and subsequently referred to in this document as “the client”), which is interested in business insights leveraging machine learning. This project will focus on the clients housing data to find insights and predict future housing prices. 
+
+Context: The client is interested in the following:
+Leveraging machine learning to see what factors affect housing prices 
+Specific variables you want to analyse / visualise
+YearBuilt,Saleprice,OverallQual,TotalBsmtSF,GrLivArea,LotArea,OverallCond
+Perform an EDA to get a visual understanding of the housing market and how it made up. 
+A Machine Learning system that can predict housing prices with >80% accuracy.  
+
+Criteria for Success: The  approach to be developed will be deemed successful if :
+Business insights are found 
+We find what factors are most important to the sale price 
+Create a model that will predict future housing prices with accuracy > 80%
+
+Scope of the Solution Space: This project will be restricted to the following:
+This project will be catered to our client but in reality could be sold to any competing firm in Ames,Iowa. 
+
+Constraints within the Solution Space: 
+Only applies to Ames,Iowa. 
+What company’s data allows us to see.  
+
+Stakeholders to Provide Key Insights: Mr. Smith, Managing Partner. His email is Smith@gmail.com
+
+
+Required Data Sources: 
+We will be acquiring the data through UCI Machine Learning Repository. https://archive.ics.uci.edu/ml/datasets/Bank+Marketing 
+Data from the client 
+
+
+Anticipated Data Science Approaches to be Used: 
+Regression focused approach 
+Feature Creation 
+
+
