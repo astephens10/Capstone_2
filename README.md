@@ -5,3 +5,4 @@ Data Wrangling- Step 1
 EDA - EDA 
 Feature Engineering- Preprocessing 
 Modeling- Modeling 
+* Github was not utilized to its fullest extent. 
